@@ -1,0 +1,22 @@
+{
+  "name": "Chat Bot",
+  "short_name": "Swasth-Bot",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "description": "A Chat app",
+  "theme_color": "#FFFFFF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "images/final_logo512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/final_logo192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
