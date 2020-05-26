@@ -1,3 +1,4 @@
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -25,6 +26,11 @@ body {
 div {
   word-wrap: break-word;
   line-height: 1.25rem;
+}
+
+.goog-te-combo {
+  border:solid;
+  border-color:#8A2BE2;
 }
 
 .disclaimer {
