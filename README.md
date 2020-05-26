@@ -61,9 +61,9 @@ Say what the step will be
 ```
 git clone 
 
-Copy the .env.example file to a file called .env
+Login Into IBM Account add  Watson Assistant Service and Launch Watson Assistant and create Your Own Assistance
 
-Open the .env file and add the service credentials that you obtained in the previous step.
+SET Environment variables & IBM Cloud connection parameters in .env File
 
 Open Command Line and locate to Swasth-Bot
 
