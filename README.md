@@ -37,7 +37,10 @@ This is our Chat-Bot Solution to protect the mental health of people suffering f
 * Node JS
 * IBM Watson Assistant
 * IBM Cloud Function
+* IBM COVID-19 Crisis communication Stater Kit
 
+## Live Test Swasth-Bot Demo:
+* https://swasth-bot.herokuapp.com/
 
 ## Getting Started
 
