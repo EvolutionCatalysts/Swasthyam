@@ -1,5 +1,6 @@
 # Swasth-Bot
 When the Covid-19 outbreak was declared a pandemic by the WHO it led to global policies of distancing, quarantines, travel restrictions, and cancellations of large gatherings, schools, colleges, shutting down offices and enabling employees to work remotely to aid in decreasing viral spread. In general public, significant anxiety is largely focused on family members and loved ones potentially contracting Covid-19, and is exacerbated by social media, self-quarantine, and misinformation. This has sparked perpetual worldwide fear, panic, anxiety, depression, desperation and distress along with concern for suicide, grief, post-traumatic stress, guilt, and long-term mental health disorders.
+<br><br>
 This is our Chat-Bot Solution to protect the mental health of people suffering from stress,anxiety,depression due to ongoing covid-19 pandemic over the world.This Bot focuses on directing users to the best sources recommended by professionals,experts & goverments.Tackling some of the fake news and getting the best and reliable information.
 
 ## Bot Can Help You With Following things :-
